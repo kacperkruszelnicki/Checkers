@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (testSDL.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  AI.cpp
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\AI.cpp(143,24): warning C4244: "inicjowanie": konwersja z "const _Ty" do "int", możliwa utrata danych
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\AI.cpp(143,24): warning C4244:         with
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\AI.cpp(143,24): warning C4244:         [
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\AI.cpp(143,24): warning C4244:             _Ty=double
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\AI.cpp(143,24): warning C4244:         ]
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\AI.cpp(170,47): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Board.cpp
+  Game.cpp
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\Game.cpp(250,34): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\Game.cpp(251,34): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\Game.cpp(252,32): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\krusz\GitHub\Checkers\Checkers\Checkers\Game.cpp(253,32): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+  Checkers.vcxproj -> C:\Users\krusz\GitHub\Checkers\Checkers\x64\Debug\Checkers.exe

@@ -1,6 +1,0 @@
-﻿  Game.cpp
-C:\Users\krusz\source\repos\testSDL\testSDL\Game.cpp(250,34): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\krusz\source\repos\testSDL\testSDL\Game.cpp(251,34): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\krusz\source\repos\testSDL\testSDL\Game.cpp(252,32): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\krusz\source\repos\testSDL\testSDL\Game.cpp(253,32): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-  testSDL.vcxproj -> C:\Users\krusz\source\repos\testSDL\x64\Debug\testSDL.exe
